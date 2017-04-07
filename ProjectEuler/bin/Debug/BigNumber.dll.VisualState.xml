@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1002]C:\projects\BigNumberTest\BigNumber\bin\Debug\BigNumber.dll</TopNode>
+  <SelectedNode>[0-1002]C:\projects\BigNumberTest\BigNumber\bin\Debug\BigNumber.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1002]C:\projects\BigNumberTest\BigNumber\bin\Debug\BigNumber.dll" Expanded="true">
+      <Nodes>
+        <Node UniqueName="[0-1003]BigNumber" Expanded="true">
+          <Nodes>
+            <Node UniqueName="[0-1004]BigNumber.NUnit" Expanded="true">
+              <Nodes>
+                <Node UniqueName="[0-1000]BigNumber.NUnit.NUnitSanityTests" Expanded="true">
+                  <Nodes>
+                    <Node UniqueName="[0-1001]BigNumber.NUnit.NUnitSanityTests.TestStdBigNumberCreatoin" />
+                  </Nodes>
+                </Node>
+              </Nodes>
+            </Node>
+          </Nodes>
+        </Node>
+      </Nodes>
+    </Node>
+  </Nodes>
+</VisualState>

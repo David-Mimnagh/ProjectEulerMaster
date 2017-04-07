@@ -1,0 +1,9 @@
+C:\Users\David Mimnagh\Desktop\Projects\Personal\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe.config
+C:\Users\David Mimnagh\Desktop\Projects\Personal\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe
+C:\Users\David Mimnagh\Desktop\Projects\Personal\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.pdb
+C:\Users\David Mimnagh\Desktop\Projects\Personal\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.exe
+C:\Users\David Mimnagh\Desktop\Projects\Personal\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.pdb
+C:\Users\David Mimnagh\Desktop\Projects\Personal\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.csprojResolveAssemblyReference.cache
+C:\Users\David Mimnagh\Desktop\Projects\Personal\ProjectEuler\ProjectEuler\bin\Debug\nunit.framework.dll
+C:\Users\David Mimnagh\Desktop\Projects\Personal\ProjectEuler\ProjectEuler\bin\Debug\BigNumber.pdb
+C:\Users\David Mimnagh\Desktop\Projects\Personal\ProjectEuler\ProjectEuler\bin\Debug\nunit.framework.xml
